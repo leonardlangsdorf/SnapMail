@@ -1,0 +1,12 @@
+The idea of the application is to purposly send adds to customers with a link at the bottom that will allow users to send private messages.
+
+Use Story 1:
+Person creates a message between a trusted party. Both would need to be members of the site.
+The user creates a message that gets delivered as an add to the recipient. The reciepient recieves the add but then has link at the bottom that contains the secret message. When the reciever clicks the link they will not be able to see the message they will be taken to a form. The form will have a secret field or fields that need to be filled in with a passcode.
+Once the passcode is entered into the system the person can see the message and after a time period it gets deleted.
+
+Use Story 2:
+Message is intercepted or someone tries to look at it. They could just click on the add which would mean that this would be revenu or if they click the secret link at the bottom they will just be taken to a form that would ask for personal informaiton or to allow them to get access. More like a welcome screen that says hey signup for our newsletter  etc.
+
+Question: Should the message be deleted if the wrong information is added more then a certain amount of time?
+Answer: probably something that should be set to 2 times 
