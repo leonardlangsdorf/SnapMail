@@ -10,3 +10,24 @@ Message is intercepted or someone tries to look at it. They could just click on 
 
 Question: Should the message be deleted if the wrong information is added more then a certain amount of time?
 Answer: probably something that should be set to 2 times 
+
+How do users setup in a secure way?
+there needs to be a way to insure users and make sure that only those that want to communicate. Two factor authentication is the way to go
+
+So the biggest issues is how do you make the emails innocous
+
+
+
+
+Setup
+- how to connect differnet emails
+-
+
+
+- You also don't want to inindate with emails everytime there is a message
+- so it is more like a drop box of sorts
+
+
+So the flow is you recieve and email and the link is only good for a set period of time done in setup so as not to flood with messages
+
+
